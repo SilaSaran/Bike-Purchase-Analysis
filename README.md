@@ -5,7 +5,9 @@ The highlights of data analysis project using excel!  involves analyzing sales d
 Key Insights from Bike Sales Data:
 
 Customer Demographics: Insights into marital status,revenue,and occupation.
+
 Purchase report: Analysis of purchase by revenue.
+
 Visualizations: Various charts and an interactive dashboard.
 
 The goal is to gain insights into understanding customer behavior and sales trends, which can inform business decisions and strategies.
